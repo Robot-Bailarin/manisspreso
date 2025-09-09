@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+env/
+venv/
+
+# VSCode
+.vscode/
+
+# Byte-compiled / logs / system
+*.log
+.DS_Store
+*.swp
+
+# Manim cache
+media/
+*.mp4
+*.mov
+*.png
+
