@@ -19,7 +19,7 @@ Hecho con Python, café, y un poquito de sufrimiento (mínimo garantizado™).
 
 ```bash
 # Clona el proyecto
-git clone https://github.com/tu-usuario/manisspreso.git
+git clone https://github.com/Robot-Bailarin
 cd manisspreso
 
 # Crea entorno virtual

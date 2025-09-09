@@ -9,7 +9,7 @@ Lo hice por amor al caos y al café.
 - No leo lloros , deja el directorio idea y ademas en docgen va toda la documentación
     como un manual de usuario
 ## 🎥 ¿Demo?
-[¡Sígueme en TikTok!](https://tiktok.com/@turobot_deconfianza)
+[¡Sígueme en TikTok!](https://tiktok.com/@robotbailarin8)
 
 ## 🧠 Requisitos
 - Python 3.10+
